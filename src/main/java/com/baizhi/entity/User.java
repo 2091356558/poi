@@ -2,6 +2,8 @@ package com.baizhi.entity;
 
 import lombok.*;
 
+import java.util.Date;
+
 @Data
 @AllArgsConstructor
 @NoArgsConstructor
@@ -16,5 +18,6 @@ public class User {
     private String user;
     private String book;
     private String name;
+    private Date bir;
 }
 
