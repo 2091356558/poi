@@ -14,5 +14,6 @@ public class User {
     private Integer age;
     private String department;
     private String user;
+    private String book;
 }
 
