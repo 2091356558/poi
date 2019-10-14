@@ -19,5 +19,6 @@ public class User {
     private String book;
     private String name;
     private Date bir;
+    private String phone;
 }
 
