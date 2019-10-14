@@ -13,4 +13,6 @@ public class User {
     private Double salary;
     private Integer age;
     private String department;
+    private String user;
 }
+
